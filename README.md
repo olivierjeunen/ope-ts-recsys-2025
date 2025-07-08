@@ -1,13 +1,9 @@
-# Δ-OPE: Off-Policy Estimation with Pairs of Policies
-Source code accompanying our paper "Δ-OPE: Off-Policy Estimation with Pairs of Policies" published at RecSys 2024.
+# Counterfactual Inference under Thompson Sampling
+Source code accompanying our paper "Counterfactual Inference under Thompson Sampling".
 
-### Discrete action spaces
+### Reproducing results
 
-Run the notebook Delta_Experiments_synthetic.ipynb
-
-### Continuous action spaces
-
-Run the notebook Delta_Experiments_synthetic_continuous.ipynb
+Run the notebook OPE_TS.ipynb
 
 ## Acknowledgements
 We build on source code provided for the RecSys 2024 paper "Optimal Baseline Corrections for Off-Policy Contextual Bandits" by Shashank Gupta, Olivier Jeunen, Harrie Oosterhuis and Maarten de Rijke.
